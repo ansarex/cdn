@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|c:\\users\\ansar\\completedevelopernetwork\\freelanceapi\\freelanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|solutionrelative:freelanceapi\\freelanceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|c:\\users\\ansar\\completedevelopernetwork\\freelanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|solutionrelative:freelanceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|c:\\users\\ansar\\completedevelopernetwork\\freelanceapi\\freelanceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|solutionrelative:freelanceapi\\freelanceapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|c:\\users\\ansar\\completedevelopernetwork\\freelanceapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B30FF762-8004-0481-F18F-F63D2F6BE751}|FreelanceAPI\\FreelanceAPI.csproj|solutionrelative:freelanceapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FreelanceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\Program.cs",
+              "RelativeToolTip": "FreelanceAPI\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAE0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T03:34:57.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FreelanceAPI",
+              "DocumentMoniker": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\FreelanceAPI.csproj",
+              "RelativeDocumentMoniker": "FreelanceAPI\\FreelanceAPI.csproj",
+              "ToolTip": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\FreelanceAPI.csproj",
+              "RelativeToolTip": "FreelanceAPI\\FreelanceAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T23:39:12.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\Controller\\UsersController.cs",
+              "RelativeDocumentMoniker": "FreelanceAPI\\Controller\\UsersController.cs",
+              "ToolTip": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\Controller\\UsersController.cs",
+              "RelativeToolTip": "FreelanceAPI\\Controller\\UsersController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T23:24:23.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FreelanceAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\FreelanceAPI.csproj",
+              "RelativeDocumentMoniker": "FreelanceAPI\\FreelanceAPI.csproj",
+              "ToolTip": "C:\\Users\\ansar\\CompleteDeveloperNetwork\\FreelanceAPI\\FreelanceAPI.csproj",
+              "RelativeToolTip": "FreelanceAPI\\FreelanceAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-06T23:24:07.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

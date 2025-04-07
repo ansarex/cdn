@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelanceAPI", "FreelanceAPI\FreelanceAPI.csproj", "{B30FF762-8004-0481-F18F-F63D2F6BE751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30FF762-8004-0481-F18F-F63D2F6BE751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30FF762-8004-0481-F18F-F63D2F6BE751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30FF762-8004-0481-F18F-F63D2F6BE751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30FF762-8004-0481-F18F-F63D2F6BE751}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D923FDB8-6D1B-4783-8EDD-6DDEBD2DC4CE}
+	EndGlobalSection
+EndGlobal
