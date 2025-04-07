@@ -1,28 +1,31 @@
 # FreelanceAPI
 
-A RESTful API built with ASP.NET Core to power a freelance job platform.  
+A RESTful API built with ASP.NET Core for a freelance platform where freelancers can promote their services and publicly showcase their skills.  
 Designed for integration with a future Vue.js frontend.
 
 ---
 
 ## Overview
 
-FreelanceAPI is a backend web API designed to manage users, job listings, and secure authentication for a freelance marketplace. It provides endpoints for clients to post jobs, freelancers to browse and apply, and secure token-based login functionality.
+**FreelanceAPI** is a backend web API designed to allow freelancers to create profiles, list their services, and manage their offerings. It provides endpoints for freelancers to promote themselves, display their skills, and allow potential clients to view their services.
 
 ---
 
 ## Features
 
-- JWT Authentication  
+- **JWT Authentication**  
   Token-based login and secure access to protected routes.
 
-- User Management  
-  Register, login, and manage user roles (client or freelancer).
+- **Freelancer Profile Management**  
+  Allow freelancers to register, create, and manage their profiles and services.
 
-- Job Listing  
-  CRUD operations for freelance jobs (create, view, update, delete).
+- **Service Listings**  
+  CRUD operations for freelancers to list and update their services (create, view, update, delete).
 
-- Swagger Integration  
+- **Public Service Display**  
+  Public-facing API to display freelancer services to potential clients.
+
+- **Swagger Integration**  
   Auto-generated, interactive API documentation.
 
 ---
