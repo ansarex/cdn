@@ -38,20 +38,3 @@ FreelanceAPI is a backend web API designed to manage users, job listings, and se
 | Docs         | Swagger / Swashbuckle  |
 
 ---
-
-## Configuration
-
-Update your `appsettings.json` with your connection string and JWT secrets:
-
-```json
-{
-  "ConnectionStrings": {
-    "DefaultConnection": "Server=localhost;Database=FreelanceDB;TrustServerCertificate=True;Integrated Security=True;"
-  },
-  "Jwt": {
-    "Issuer": "YourIssuer",
-    "Audience": "YourAudience",
-    "SecretKey": "ThisIsASuperStrongSecretKey_ThatIsLongEnough123!"
-  },
-  "AllowedHosts": "*"
-}
